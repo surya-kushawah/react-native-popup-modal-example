@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/react-native-popup-modal-exmaple.iml" filepath="$PROJECT_DIR$/.idea/react-native-popup-modal-exmaple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-native-popup-modal-example/.idea/react-native-popup-modal-example.iml" filepath="$PROJECT_DIR$/../react-native-popup-modal-example/.idea/react-native-popup-modal-example.iml" />
     </modules>
   </component>
 </project>
